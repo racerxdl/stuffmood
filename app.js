@@ -36,6 +36,7 @@ setTimeout(function() {
       myLcd.setCursor(0,0);
       var dataClass = classifier.getClassification(text);
       myLcd.setColor(dataClass.color.R,dataClass.color.G,dataClass.color.B);
+      myLcd.clear();
       myLcd.write(dataClass.dataClass);         
     });
   });

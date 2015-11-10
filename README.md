@@ -8,3 +8,5 @@
 ```
 
 Intel IoT Roadshow Project 
+
+More details at http://www.instructables.com/id/Stuff-Mood/

@@ -26,7 +26,7 @@ var classifierWords = {
         'estou com raiva',
         'estou raivoso',
         'estou irado',
-        "odeio isso"
+        "odeio isso",
         'estamos irritados',
         'estamos chateados',
         'estamos aborrecidos',
