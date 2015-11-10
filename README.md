@@ -10,3 +10,27 @@
 Intel IoT Roadshow Project 
 
 More details at http://www.instructables.com/id/Stuff-Mood/
+
+Made by 
+=================
+
+*  [Alfredo Erdmann] (https://github.com/erdmanncross)
+*  [Cris Lima] (https://github.com/magmath)
+*  Daniela Santana
+*  [Lucas Teske] (https://github.com/racerxdl)
+
+at 
+
+```
+ ___       _       _   ___    _____ 
+|_ _|_ __ | |_ ___| | |_ _|__|_   _|
+ | || '_ \| __/ _ \ |  | |/ _ \| |  
+ | || | | | ||  __/ |  | | (_) | |  
+|___|_| |_|\__\___|_| |___\___/|_|  
+                                    
+ ____                 _     _                   
+|  _ \ ___   __ _  __| |___| |__   _____      __
+| |_) / _ \ / _` |/ _` / __| '_ \ / _ \ \ /\ / /
+|  _ < (_) | (_| | (_| \__ \ | | | (_) \ V  V / 
+|_| \_\___/ \__,_|\__,_|___/_| |_|\___/ \_/\_/  
+```
